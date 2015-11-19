@@ -22,10 +22,10 @@ import tweepy
 # desired tag
 
 # keys needed to access APIs
-consumer_key = 'kzgnPvD38avA7fh73ZvOT9tLa'
-consumer_secret = '64AWYxTJUFW3giAY67TGUzdNEVu41pvq8iSMKeBf3v7ow2EAWG'
-access_token = "462550008-ND20bj81rJt4S98aNAP7SG3dLUNrwZoYyNu5yfKJ"
-access_token_secret = "d9yqIYnfexULBviBu7KvWbpeoWXHb0XaPyHVb3nc67rXt"
+consumer_key = ''
+consumer_secret = ''
+access_token = ""
+access_token_secret = ""
 # indicoio.config.api_key = '7eb077799570ac2dd7917d2fb7ad4d60'
 
 # twitter authorization stuff...so unnecessary
